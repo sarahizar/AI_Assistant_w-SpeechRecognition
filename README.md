@@ -27,16 +27,16 @@ Before running the script, ensure you have Python installed on your system. You 
 
 1. Install the required dependencies using pip:
 
-pip install openai pyttsx3 SpeechRecognition
+    pip install openai pyttsx3 SpeechRecognition
 
-**Note** If you have the new version of Python installed, you will have to use pip3 instead of pip.
+        **Note** If you have the new version of Python installed, you will have to use pip3 instead of pip.
 
 2. Obtain OpenAI API Key:
 
-You need to sign up for an account on the OpenAI platform and obtain an API key. Once you have the API key, replace the empty string ('') in the script with your API key:
+    You need to sign up for an account on the OpenAI platform and obtain an API key. Once you have the API key, replace the empty string ('') in the script with your API key:
 
-Set OpenAI key
-openai.api_key = 'YOUR_API_KEY'
+    ** Set OpenAI key
+    openai.api_key = 'YOUR_API_KEY'
 
 ## Usage
 
