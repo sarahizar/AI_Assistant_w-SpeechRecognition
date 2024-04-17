@@ -27,7 +27,6 @@ Before running the script, ensure you have Python installed on your system. You 
 
 1. Install the required dependencies using pip:
 
-```bash
 pip install openai pyttsx3 SpeechRecognition
 
 **Note** If you have the new version of Python installed, you will have to use pip3 instead of pip.
@@ -57,4 +56,4 @@ openai.api_key = 'YOUR_API_KEY'
 Please note that the text-to-speech library pyttsx3 may have compatibility issues with Python 3.12. It's recommended to use Python 3.7 for compatibility. If you encounter installation errors related to pyttsx3 with Python 3.12, consider using Python 3.7 instead.
 
 ## Link
-https://github.com/sarahizar/Text_Editor
+https://github.com/sarahizar/AI_Assistant_w-SpeechRecognition
