@@ -1,6 +1,6 @@
 # AI Assistant with Speech Recognition and OpenAI Integration
 
-## Discription
+## Description
 
 This Python script is an AI assistant that utilizes speech recognition to understand user queries, interacts with the OpenAI API to generate responses, and uses text-to-speech conversion to communicate the responses back to the user.
 
